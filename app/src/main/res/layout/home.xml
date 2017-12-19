@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout android:id="@+id/linearLayout2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/select_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="select" />
+
+        <Button
+            android:id="@+id/match_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="match" />
+
+        <Button
+            android:id="@+id/create_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="create" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/scan_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="scan" />
+
+    <ImageView
+        android:id="@+id/imagematch"
+        android:layout_width="185dp"
+        android:layout_height="205dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/ImageDes"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/status_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="TextView"
+        android:textSize="18sp" />
+
+    <!--<ImageView-->
+        <!--android:id="@+id/imagematch"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="236dp"-->
+        <!--app:srcCompat="@drawable/ic_launcher" />-->
+
+
+</LinearLayout>
+
+
+
+
