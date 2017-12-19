@@ -1,131 +1,131 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\eca533d3f71b2187751a8d1ff3ba64c6\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b4542915eaf2ad1aaf41c25e1d8c8f1b\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7cf2d11afc1630c59b3090563cced6cc\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\decbc94a0deee5e054d63329bb4ae752\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9659583cb475d5c702a7a52c02d616fe\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\44de36ac90adc7ad7ced3a6de2801760\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ed409a5524387e67d23cfb212d6840b0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aee34d6469f0f1ab4c6f83f4d7b2eed8\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:3:5-56
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\eca533d3f71b2187751a8d1ff3ba64c6\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\eca533d3f71b2187751a8d1ff3ba64c6\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b4542915eaf2ad1aaf41c25e1d8c8f1b\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b4542915eaf2ad1aaf41c25e1d8c8f1b\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7cf2d11afc1630c59b3090563cced6cc\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7cf2d11afc1630c59b3090563cced6cc\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\decbc94a0deee5e054d63329bb4ae752\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\decbc94a0deee5e054d63329bb4ae752\AndroidManifest.xml:20:5-43
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9659583cb475d5c702a7a52c02d616fe\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9659583cb475d5c702a7a52c02d616fe\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\44de36ac90adc7ad7ced3a6de2801760\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\44de36ac90adc7ad7ced3a6de2801760\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ed409a5524387e67d23cfb212d6840b0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ed409a5524387e67d23cfb212d6840b0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aee34d6469f0f1ab4c6f83f4d7b2eed8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aee34d6469f0f1ab4c6f83f4d7b2eed8\AndroidManifest.xml:20:5-43
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\eca533d3f71b2187751a8d1ff3ba64c6\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9659583cb475d5c702a7a52c02d616fe\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:8:9-34
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:10:5-74
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:10:5-74
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:10:22-71
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:10:22-71
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:11:5-68
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:11:5-68
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:11:22-65
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:11:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:12:5-80
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:13:5-80
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:13:22-77
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:13:22-77
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:14:5-75
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:14:5-75
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:14:22-72
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:14:22-72
 application
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:16:5-45:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\eca533d3f71b2187751a8d1ff3ba64c6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\eca533d3f71b2187751a8d1ff3ba64c6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b4542915eaf2ad1aaf41c25e1d8c8f1b\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b4542915eaf2ad1aaf41c25e1d8c8f1b\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7cf2d11afc1630c59b3090563cced6cc\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7cf2d11afc1630c59b3090563cced6cc\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\decbc94a0deee5e054d63329bb4ae752\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\MASTERS\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\decbc94a0deee5e054d63329bb4ae752\AndroidManifest.xml:22:5-20
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:16:5-45:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9659583cb475d5c702a7a52c02d616fe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\9659583cb475d5c702a7a52c02d616fe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\44de36ac90adc7ad7ced3a6de2801760\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\44de36ac90adc7ad7ced3a6de2801760\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ed409a5524387e67d23cfb212d6840b0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\ed409a5524387e67d23cfb212d6840b0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aee34d6469f0f1ab4c6f83f4d7b2eed8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\anusara\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aee34d6469f0f1ab4c6f83f4d7b2eed8\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:19:9-41
 	android:icon
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:18:9-45
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:18:9-45
 	android:allowBackup
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:17:9-35
 activity#com.futronictech.fs28slavemodeandroiddemo.MainActivity
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:20:9-29:20
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:20:9-29:20
 	android:screenOrientation
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:23:4-40
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:23:4-40
 	android:label
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:22:13-45
 	android:configChanges
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:24:13-63
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:24:13-63
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:21:13-41
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:21:13-41
 activity#com.futronictech.fs28slavemodeandroiddemo.DeviceListActivity
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:30:9-34:72
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:30:9-34:72
 	android:screenOrientation
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:33:19-55
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:33:19-55
 	android:label
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:31:19-56
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:31:19-56
 	android:configChanges
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:34:19-69
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:34:19-69
 	android:theme
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:32:19-62
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:32:19-62
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:30:19-53
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:30:19-53
 activity#com.futronictech.fs28slavemodeandroiddemo.SelectFileFormatActivity
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:35:9-114
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:35:9-114
 	android:theme
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:35:59-102
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:35:59-102
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:35:19-58
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:35:19-58
 activity#com.futronictech.fs28slavemodeandroiddemo.home
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:37:9-44:20
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:37:9-44:20
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:37:19-39
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:37:19-39
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:39:13-42:29
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:39:13-42:29
 	android:label
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:39:28-60
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:39:28-60
 action#android.intent.action.MAIN
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:40:17-69
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:40:25-66
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:41:17-77
+ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from D:\Program Files\project\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:41:27-74
+		ADDED from E:\AndroidStudioProjects\FS28SlaveModeAndroidDemo\app\src\main\AndroidManifest.xml:41:27-74
