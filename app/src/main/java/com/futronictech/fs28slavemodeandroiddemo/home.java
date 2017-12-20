@@ -45,6 +45,8 @@ public class home extends Activity {
     private Handler mHandler;
     private final int SELECT_PHOTO = 1;
 
+    private static int REQUEST_ENABLE_BT = 1;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -98,7 +100,14 @@ public class home extends Activity {
             @Override
             public void onClick(View v) {
 
+                if (mBluetoothAdapter == null || !mBluetoothAdapter.isEnabled()) {
+                    Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
+                    startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
+                }
+//                Intent intent = new Intent(home.this,openbluetooth.class);
+//                startActivity(intent);
                 match.setEnabled(true);
+
             }
         });
     }
