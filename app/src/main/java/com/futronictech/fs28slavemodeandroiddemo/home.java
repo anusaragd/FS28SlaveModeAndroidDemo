@@ -2,6 +2,7 @@ package com.futronictech.fs28slavemodeandroiddemo;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
+import android.bluetooth.BluetoothDevice;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -16,9 +17,11 @@ import android.provider.MediaStore;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import java.io.FileNotFoundException;
 import java.io.InputStream;
+import java.util.Set;
 
 /**
  * Created by MASTERS on 19/12/2560.
@@ -47,10 +50,15 @@ public class home extends Activity {
 
     private static int REQUEST_ENABLE_BT = 1;
 
+    private BluetoothAdapter BA;
+    private Set<BluetoothDevice> pairedDevices;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.home);
+
+        BA = BluetoothAdapter.getDefaultAdapter();
 
 //        showpic = (ImageView)findViewById(R.id.imagematch) ;
         showpic = (ImageView)findViewById(R.id.imagematch) ;
@@ -100,10 +108,14 @@ public class home extends Activity {
             @Override
             public void onClick(View v) {
 
-                if (mBluetoothAdapter == null || !mBluetoothAdapter.isEnabled()) {
-                    Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
-                    startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
+                if (!BA.isEnabled()) {
+                    Intent turnOn = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
+                    startActivityForResult(turnOn, 0);
+                    Toast.makeText(getApplicationContext(), "Turned on", Toast.LENGTH_LONG).show();
+                } else {
+                    Toast.makeText(getApplicationContext(), "Already on", Toast.LENGTH_LONG).show();
                 }
+
 //                Intent intent = new Intent(home.this,openbluetooth.class);
 //                startActivity(intent);
                 match.setEnabled(true);

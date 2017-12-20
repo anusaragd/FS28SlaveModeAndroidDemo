@@ -166,21 +166,6 @@
             ]
         },
         {
-            "outputFile": "E:\\AndroidStudioProjects\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\anusara\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\9659583cb475d5c702a7a52c02d616fe\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "112",
-                        "endOffsets": "163"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "E:\\AndroidStudioProjects\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-km-rKH_values-km-rKH.arsc.flat",
             "map": [
                 {
@@ -191,6 +176,21 @@
                         "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002",
                         "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,100",
                         "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2098"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\AndroidStudioProjects\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\anusara\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\9659583cb475d5c702a7a52c02d616fe\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
                     }
                 }
             ]
@@ -424,21 +424,6 @@
             ]
         },
         {
-            "outputFile": "D:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-mk-rMK_values-mk-rMK.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\MASTERS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\eca533d3f71b2187751a8d1ff3ba64c6\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794",
-                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,100",
-                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1890"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "E:\\AndroidStudioProjects\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
@@ -450,6 +435,21 @@
                         "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,16,18,19,20,21,23,25,26,27,28,29,31,33,35,37,39,41,42,44,46,47,48,50,52,53,54,55,56,100,103,147,150,152,154,156,159,161,164,165,166,167,168,169,170,171,172,175,176,178,180,182,184,188,190,191,192,193,195,199,201,203,204,205,206,207,209,219,229,239,240,241",
                         "endColumns": "90,102,102,104,106,108,108,108,108,108,106,102,118,12,12,104,120,100,12,12,102,118,106,102,12,12,12,12,12,12,118,12,12,111,146,12,12,74,88,86,100,12,12,12,12,12,12,12,12,12,12,88,110,126,100,94,122,128,116,12,98,12,12,12,12,12,12,92,110,55,12,12,12,12,94,90,90,116,12,12,12,12,56,57",
                         "endOffsets": "141,244,347,452,559,668,777,886,995,1104,1211,1314,1433,1588,1743,1848,1969,2070,2217,2358,2461,2580,2687,2790,2945,3116,3265,3430,3587,3738,3857,4006,4155,4267,4414,4567,4714,4789,4878,4965,5066,8134,8320,11400,11598,11721,11844,11957,12140,12271,12472,12561,12672,12799,12900,12995,13118,13247,13364,13541,13640,13775,13918,14053,14172,14373,14492,14585,14696,14752,14859,15054,15165,15298,15393,15484,15575,15692,15831,16344,16869,17549,17606,17664"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-mk-rMK_values-mk-rMK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\MASTERS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\eca533d3f71b2187751a8d1ff3ba64c6\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1890"
                     }
                 }
             ]
@@ -485,21 +485,6 @@
             ]
         },
         {
-            "outputFile": "D:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-lv_values-lv.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\MASTERS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\eca533d3f71b2187751a8d1ff3ba64c6\\res\\values-lv\\values-lv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,175,283,406,514,623,709,813,935,1017,1099,1184,1293,1405,1504,1615,1724,1829,1948,2047",
-                        "endColumns": "119,107,122,107,108,85,103,121,81,81,84,108,111,98,110,108,104,118,98,100",
-                        "endOffsets": "170,278,401,509,618,704,808,930,1012,1094,1179,1288,1400,1499,1610,1719,1824,1943,2042,2143"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-h320dp-v13_values-h320dp-v13.arsc.flat",
             "map": [
                 {
@@ -510,6 +495,21 @@
                         "startOffsets": "55",
                         "endColumns": "57",
                         "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\MASTERS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\eca533d3f71b2187751a8d1ff3ba64c6\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,283,406,514,623,709,813,935,1017,1099,1184,1293,1405,1504,1615,1724,1829,1948,2047",
+                        "endColumns": "119,107,122,107,108,85,103,121,81,81,84,108,111,98,110,108,104,118,98,100",
+                        "endOffsets": "170,278,401,509,618,704,808,930,1012,1094,1179,1288,1400,1499,1610,1719,1824,1943,2042,2143"
                     }
                 }
             ]
@@ -1268,16 +1268,16 @@
             ]
         },
         {
-            "outputFile": "D:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
+            "outputFile": "E:\\AndroidStudioProjects\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-kk-rKZ_values-kk-rKZ.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\MASTERS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\eca533d3f71b2187751a8d1ff3ba64c6\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\anusara\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\9659583cb475d5c702a7a52c02d616fe\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,166,274,397,512,623,710,826,956,1039,1119,1215,1325,1437,1540,1651,1758,1860,1982,2081",
-                        "endColumns": "110,107,122,114,110,86,115,129,82,79,95,109,111,102,110,106,101,121,98,100",
-                        "endOffsets": "161,269,392,507,618,705,821,951,1034,1114,1210,1320,1432,1535,1646,1753,1855,1977,2076,2177"
+                        "startOffsets": "55,167,275,398,501,611,696,802,921,1002,1082,1163,1266,1371,1469,1576,1685,1785,1900,1999",
+                        "endColumns": "111,107,122,102,109,84,105,118,80,79,80,102,104,97,106,108,99,114,98,100",
+                        "endOffsets": "162,270,393,496,606,691,797,916,997,1077,1158,1261,1366,1464,1571,1680,1780,1895,1994,2095"
                     }
                 }
             ]
@@ -1298,16 +1298,16 @@
             ]
         },
         {
-            "outputFile": "E:\\AndroidStudioProjects\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-kk-rKZ_values-kk-rKZ.arsc.flat",
+            "outputFile": "D:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\anusara\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\9659583cb475d5c702a7a52c02d616fe\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "source": "C:\\Users\\MASTERS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\eca533d3f71b2187751a8d1ff3ba64c6\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,167,275,398,501,611,696,802,921,1002,1082,1163,1266,1371,1469,1576,1685,1785,1900,1999",
-                        "endColumns": "111,107,122,102,109,84,105,118,80,79,80,102,104,97,106,108,99,114,98,100",
-                        "endOffsets": "162,270,393,496,606,691,797,916,997,1077,1158,1261,1366,1464,1571,1680,1780,1895,1994,2095"
+                        "startOffsets": "55,166,274,397,512,623,710,826,956,1039,1119,1215,1325,1437,1540,1651,1758,1860,1982,2081",
+                        "endColumns": "110,107,122,114,110,86,115,129,82,79,95,109,111,102,110,106,101,121,98,100",
+                        "endOffsets": "161,269,392,507,618,705,821,951,1034,1114,1210,1320,1432,1535,1646,1753,1855,1977,2076,2177"
                     }
                 }
             ]
