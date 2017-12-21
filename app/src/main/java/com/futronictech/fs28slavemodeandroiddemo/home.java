@@ -161,11 +161,11 @@ public class home extends Activity {
                 } else {
                     Toast.makeText(getApplicationContext(), "Already on", Toast.LENGTH_LONG).show();
                 }
-                mCaptureType = CAPTURE_RAW;
-                startCapture();
+//                mCaptureType = CAPTURE_RAW;
+//                startCapture();
 
-//                Intent intent = new Intent(home.this,openbluetooth.class);
-//                startActivity(intent);
+                Intent intent = new Intent(home.this,MainActivity.class);
+                startActivity(intent);
                 match.setEnabled(true);
 
 

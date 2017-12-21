@@ -65,6 +65,7 @@ public class MainActivity extends Activity {
 	private Button mButtonCaptureWSQ;
 	private Button mButtonStop;
 	private Button mButtonSave;
+	private Button sendpicture;
 	private TextView mMessage;
 	private ImageView mFingerImage;
 	private ProgressBar mProgressbar1;
@@ -94,6 +95,18 @@ public class MainActivity extends Activity {
             finish();
             return;
         }
+
+        sendpicture = (Button)findViewById(R.id.send_button);
+        sendpicture.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,home.class);
+//                intent.putExtra("pivture",mFingerImage.);
+                startActivity(intent);
+            }
+        });
+
+
         mMessage = (TextView) findViewById(R.id.tvMessage);
         mFingerImage = (ImageView) findViewById(R.id.imageFinger);
         mProgressbar1 = (ProgressBar) findViewById(R.id.progressBar1);     

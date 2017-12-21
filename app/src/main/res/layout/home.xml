@@ -38,7 +38,7 @@
     <ImageView
         android:id="@+id/imagematch"
         android:layout_width="185dp"
-        android:layout_height="205dp"
+        android:layout_height="150dp"
         android:layout_marginStart="100dp"
         android:layout_marginTop="20dp"
         android:contentDescription="@string/ImageDes"
@@ -52,6 +52,14 @@
         android:paddingStart="20dp"
         android:text="TextView"
         android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/imagescan"
+        android:layout_width="185dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@drawable/logo" />
 
     <!--<ImageView-->
         <!--android:id="@+id/imagematch"-->
