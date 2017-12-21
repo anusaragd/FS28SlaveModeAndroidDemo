@@ -101,7 +101,8 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this,home.class);
-//                intent.putExtra("pivture",mFingerImage.);
+//                intent.putExtra("picture",mFingerImage.);
+                intent.putExtra("picture",mBitmapFP);
                 startActivity(intent);
             }
         });

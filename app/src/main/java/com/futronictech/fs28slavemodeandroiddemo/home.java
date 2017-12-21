@@ -61,7 +61,7 @@ public class home extends Activity {
     public static byte[] mWsqImageFP;
     
     Button select ,  create , match , scan ;
-    ImageView showpic;
+    ImageView showpic , picture ;
     TextView mMessage;
 //    private Handler mHandler;
     private final int SELECT_PHOTO = 1;
@@ -98,6 +98,8 @@ public class home extends Activity {
     public static final String SHOW_MESSAGE = "show_message";
     public static final String TOAST = "toast";
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -108,6 +110,8 @@ public class home extends Activity {
 //        showpic = (ImageView)findViewById(R.id.imagematch) ;
         showpic = (ImageView)findViewById(R.id.imagematch) ;
         mMessage = (TextView) findViewById(R.id.status_text);
+        picture = (ImageView)findViewById(R.id.imagescan);
+//        picture.getDrawable();
 //        showpic.getDrawable();
 
 
@@ -162,11 +166,11 @@ public class home extends Activity {
                     Toast.makeText(getApplicationContext(), "Already on", Toast.LENGTH_LONG).show();
                 }
 //                mCaptureType = CAPTURE_RAW;
-//                startCapture();
+                startCapture();
 
-                Intent intent = new Intent(home.this,MainActivity.class);
-                startActivity(intent);
-                match.setEnabled(true);
+//                Intent intent = new Intent(home.this,MainActivity.class);
+//                startActivity(intent);
+//                match.setEnabled(true);
 
 
 
@@ -439,29 +443,6 @@ public class home extends Activity {
 
         showpic.setImageBitmap(mBitmapFP);
     }
-
-//    private void ShowBitmap()
-//    {
-//        int[] pixels = new int[153600];
-//        for( int i=0; i<153600; i++)
-//            pixels[i] = mImageFP[i];
-//        Bitmap emptyBmp = Bitmap.createBitmap(pixels, 320, 480, Bitmap.Config.RGB_565);
-//
-//        int width, height;
-//        height = emptyBmp.getHeight();
-//        width = emptyBmp.getWidth();
-//
-//        mBitmapFP = Bitmap.createBitmap(width, height, Bitmap.Config.RGB_565);
-//        Canvas c = new Canvas(mBitmapFP);
-//        Paint paint = new Paint();
-//        ColorMatrix cm = new ColorMatrix();
-//        cm.setSaturation(0);
-//        ColorMatrixColorFilter f = new ColorMatrixColorFilter(cm);
-//        paint.setColorFilter(f);
-//        c.drawBitmap(emptyBmp, 0, 0, paint);
-//
-//        showpic.setImageBitmap(mBitmapFP);
-//    }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent imageReturnedIntent) {

@@ -1,4 +1,4 @@
-#Thu Dec 21 13:29:41 ICT 2017
+#Thu Dec 21 15:19:27 ICT 2017
 base.0=D\:\\Program Files\\project\\FS28SlaveModeAndroidDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
